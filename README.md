@@ -1,1 +1,1 @@
-# weboldal
+# minelore.hu
