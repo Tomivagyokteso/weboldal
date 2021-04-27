@@ -1,1 +1,1 @@
-# minelore.hu
+# minepower.tk
